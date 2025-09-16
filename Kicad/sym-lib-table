@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "button_battry")(type "KiCad")(uri "${KIPRJMOD}/lib/button_battry.kicad_sym")(options "")(descr ""))
+)
