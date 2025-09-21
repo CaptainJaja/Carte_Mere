@@ -14,13 +14,14 @@
 - **USB-C** : un connecteur intégré pour programmation et alimentation  
 - **Timers** : 12 broches disponibles pour PWM et capture/compare  
 - **GPIO** : 10 broches générales, chacune associée à GND et 3V3 pour plus de flexibilité  
+- **SPI** : 3 full duplex master, avec chacun des broches power et deux gpios 
 
 ---
 
 ## Vues du PCB
 
 ### Face composants
-![PCB Face](ImageFront.png)
+![PCB Face](Imagefront.png)
 
 ### Face cuivre arrière
-![PCB Dos](ImageBack.png)
+![PCB Dos](Imageback.png)
