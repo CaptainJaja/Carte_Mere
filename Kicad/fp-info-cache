@@ -1,4 +1,4 @@
-26179341606546755
+26184615931274898
 AD-DC_Module
 MP-LDE06-20B05
 
@@ -59674,6 +59674,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EEU-FR1H221
+CAPPRD500W60D1000H1600
+
+
+0
+2
+2
 ESP32_SuperMini
 C3_SuperMini
 
@@ -95984,6 +95991,13 @@ Pad_a_souder_avec_vias
 26
 2
 Switch
+WS-TASU SMT Tact Switch 4.7x3.5 mm side push
+
+
+0
+4
+4
+Switch
 Wurth_2pin_P5.0mm
 
 
@@ -104341,6 +104355,13 @@ Wurth_ShieldedPowerInductor
 0
 2
 2
+Wurth_ShieldedPowerInductor
+Untitled
+
+
+0
+0
+0
 img
 ARDUINO
 
